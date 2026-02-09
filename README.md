@@ -14,11 +14,13 @@
 
 2. Подтверждение HTML базовый https://boosty.to/frontendbaza/posts/5f38e5b9-5d1e-46c2-8646-c4c4636043fb
 
+3. Подтверждение JavaScript базовый https://boosty.to/frontendbaza/posts/c76f0884-2ef9-4495-b5b1-24508b8d4d22
+
 Уровень английского языка: B1, B2, C1.
 
 ООП: базовый, средний, продвинутый.
 
-JavaScript: 
+
 CSS: продвинутый.
 API: базовый, продвинутый.
 Scrum: базовый, средний, продвинутый.
