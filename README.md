@@ -16,15 +16,17 @@
 
 3. Подтверждение навыков HTML базовый hh.ru https://boosty.to/frontendbaza/posts/5f38e5b9-5d1e-46c2-8646-c4c4636043fb
 
-4. Подтверждение навыков JavaScript базовый hh.ru https://boosty.to/frontendbaza/posts/c76f0884-2ef9-4495-b5b1-24508b8d4d22
+4. Подтверждение навыков HTML базовый hh.ru вариант 2 https://boosty.to/frontendbaza/posts/d799d808-7146-484a-b0fb-205a0674b17e
 
-5. Подтверждение навыков CSS базовый hh.ru https://boosty.to/frontendbaza/posts/efe6fd2a-3d1e-4b1e-8f71-bff0c0c3f6a0
+5. Подтверждение навыков JavaScript базовый hh.ru https://boosty.to/frontendbaza/posts/c76f0884-2ef9-4495-b5b1-24508b8d4d22
 
-6. Подтверждение навыков API базовый hh.ru https://boosty.to/frontendbaza/posts/a52c274e-c01f-4e48-9888-bd739b81f8ea
+6. Подтверждение навыков CSS базовый hh.ru https://boosty.to/frontendbaza/posts/efe6fd2a-3d1e-4b1e-8f71-bff0c0c3f6a0
 
-7. Подтверждение навыков Docker базовый hh.ru https://boosty.to/frontendbaza/posts/6ee50fb4-7316-4c7b-b9d3-d729f523d145
+7. Подтверждение навыков API базовый hh.ru https://boosty.to/frontendbaza/posts/a52c274e-c01f-4e48-9888-bd739b81f8ea
+
+8. Подтверждение навыков Docker базовый hh.ru https://boosty.to/frontendbaza/posts/6ee50fb4-7316-4c7b-b9d3-d729f523d145
    
-8. Подтверждение навыков Английский А1 базовый hh.ru https://boosty.to/frontendbaza/posts/79d0a998-7b32-488d-b385-f3c6234fb6a9
+9. Подтверждение навыков Английский А1 базовый hh.ru https://boosty.to/frontendbaza/posts/79d0a998-7b32-488d-b385-f3c6234fb6a9
 
 
 
