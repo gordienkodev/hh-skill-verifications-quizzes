@@ -10,19 +10,21 @@
 
 Доступные материалы: 
 
-1. Подтверждение Git базовый hh.ru https://boosty.to/frontendbaza/posts/e953f30d-501c-40c4-8944-32ec9f004b3e
+1. Подтверждение навыков Git базовый hh.ru https://boosty.to/frontendbaza/posts/e953f30d-501c-40c4-8944-32ec9f004b3e
 
-2. Подтверждение HTML базовый hh.ru https://boosty.to/frontendbaza/posts/5f38e5b9-5d1e-46c2-8646-c4c4636043fb
+2. Подтверждение навыков Git базовый hh.ru вариант 2 https://boosty.to/frontendbaza/posts/199680ed-b550-485f-b169-44b22196c67c
 
-3. Подтверждение JavaScript базовый hh.ru https://boosty.to/frontendbaza/posts/c76f0884-2ef9-4495-b5b1-24508b8d4d22
+3. Подтверждение навыков HTML базовый hh.ru https://boosty.to/frontendbaza/posts/5f38e5b9-5d1e-46c2-8646-c4c4636043fb
 
-4. Подтверждение CSS базовый hh.ru https://boosty.to/frontendbaza/posts/efe6fd2a-3d1e-4b1e-8f71-bff0c0c3f6a0
+4. Подтверждение навыков JavaScript базовый hh.ru https://boosty.to/frontendbaza/posts/c76f0884-2ef9-4495-b5b1-24508b8d4d22
 
-5. Подтверждение API базовый hh.ru https://boosty.to/frontendbaza/posts/a52c274e-c01f-4e48-9888-bd739b81f8ea
+5. Подтверждение навыков CSS базовый hh.ru https://boosty.to/frontendbaza/posts/efe6fd2a-3d1e-4b1e-8f71-bff0c0c3f6a0
 
-6. Подтверждение Docker базовый hh.ru https://boosty.to/frontendbaza/posts/6ee50fb4-7316-4c7b-b9d3-d729f523d145
+6. Подтверждение навыков API базовый hh.ru https://boosty.to/frontendbaza/posts/a52c274e-c01f-4e48-9888-bd739b81f8ea
+
+7. Подтверждение навыков Docker базовый hh.ru https://boosty.to/frontendbaza/posts/6ee50fb4-7316-4c7b-b9d3-d729f523d145
    
-7. Подтверждение Английский А1 базовый hh.ru https://boosty.to/frontendbaza/posts/79d0a998-7b32-488d-b385-f3c6234fb6a9
+8. Подтверждение навыков Английский А1 базовый hh.ru https://boosty.to/frontendbaza/posts/79d0a998-7b32-488d-b385-f3c6234fb6a9
 
 
 
