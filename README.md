@@ -12,6 +12,8 @@
 
 Доступные материалы: 
 
+БАЗОВЫЙ
+
 1. Подтверждение навыков Git базовый hh.ru https://boosty.to/frontendbaza/posts/e953f30d-501c-40c4-8944-32ec9f004b3e
 
 2. Подтверждение навыков Git базовый hh.ru вариант 2 https://boosty.to/frontendbaza/posts/199680ed-b550-485f-b169-44b22196c67c
@@ -31,6 +33,12 @@
 9. Подтверждение навыков Docker базовый hh.ru https://boosty.to/frontendbaza/posts/6ee50fb4-7316-4c7b-b9d3-d729f523d145
    
 10. Подтверждение навыков Английский А1 базовый hh.ru https://boosty.to/frontendbaza/posts/79d0a998-7b32-488d-b385-f3c6234fb6a9
+
+
+
+
+ПРОДВИНУТЫЙ:
+1. Подтверждение навыков CSS продвинутый https://boosty.to/frontendbaza/posts/c9f415ac-c358-4a98-8be8-c385028be686
 
 
 
