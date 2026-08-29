@@ -42,6 +42,8 @@
 ПРОДВИНУТЫЙ:
 1. Подтверждение навыков CSS продвинутый https://boosty.to/frontendbaza/posts/c9f415ac-c358-4a98-8be8-c385028be686
 
+2. Подтверждение навыков Docker Продвинутый https://boosty.to/frontendbaza/posts/2b25b64e-0983-4b92-943d-678bcb31bb63
+
 
 
 Уровень английского языка: 
