@@ -44,6 +44,7 @@
 
 2. Подтверждение навыков Docker Продвинутый https://boosty.to/frontendbaza/posts/2b25b64e-0983-4b92-943d-678bcb31bb63
 
+3. Подтверждение навыков HTML Продвинутый https://boosty.to/frontendbaza/posts/0847d5bc-1519-4f62-b0fd-696b01a10f0e
 
 
 Уровень английского языка: 
