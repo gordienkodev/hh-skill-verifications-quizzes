@@ -34,7 +34,9 @@
    
 10. Подтверждение навыков Английский А1 базовый hh.ru https://boosty.to/frontendbaza/posts/79d0a998-7b32-488d-b385-f3c6234fb6a9
 
+СРЕДНИЙ
 
+1. Подтверждение навыков Docker средний hh.ru https://boosty.to/frontendbaza/posts/c87f998a-04f2-477b-aae8-737fa75e649f
 
 
 ПРОДВИНУТЫЙ:
