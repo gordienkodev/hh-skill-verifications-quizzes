@@ -46,6 +46,11 @@
 
 3. Подтверждение навыков HTML Продвинутый https://boosty.to/frontendbaza/posts/0847d5bc-1519-4f62-b0fd-696b01a10f0e
 
+4. Подтверждение навыков Git Продвинутый https://boosty.to/frontendbaza/posts/b69c53f1-f5a8-4d9e-854d-cfa8b09bd0f3
+
+5. Подтверждение навыков CSS продвинутый вариант 2 https://boosty.to/frontendbaza/posts/bc341b00-0316-4ddc-aff7-fe3890aef1e5
+
+6. Подтверждение навыков JavaScript продвинутый https://boosty.to/frontendbaza/posts/5e0a9fd0-3eba-49d1-9b40-cd629f1a7abc
 
 Уровень английского языка: 
 !!! При подтверждении уровня английского обратите внимание что там есть вопросы с аудио файлами, на это сложно быстро найти ответ.
